@@ -13,6 +13,7 @@
 		2686A08C247C0E6600BC15FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2686A08A247C0E6600BC15FF /* Main.storyboard */; };
 		2686A08E247C0E6B00BC15FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2686A08D247C0E6B00BC15FF /* Assets.xcassets */; };
 		2686A091247C0E6B00BC15FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2686A08F247C0E6B00BC15FF /* LaunchScreen.storyboard */; };
+		2686A099247C53C000BC15FF /* Culminating task gabriela.sketch in Resources */ = {isa = PBXBuildFile; fileRef = 2686A098247C53C000BC15FF /* Culminating task gabriela.sketch */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2686A08D247C0E6B00BC15FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2686A090247C0E6B00BC15FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2686A092247C0E6B00BC15FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2686A098247C53C000BC15FF /* Culminating task gabriela.sketch */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Culminating task gabriela.sketch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2686A086247C0E6600BC15FF /* SceneDelegate.swift */,
 				2686A088247C0E6600BC15FF /* ViewController.swift */,
 				2686A08A247C0E6600BC15FF /* Main.storyboard */,
+				2686A098247C53C000BC15FF /* Culminating task gabriela.sketch */,
 				2686A08D247C0E6B00BC15FF /* Assets.xcassets */,
 				2686A08F247C0E6B00BC15FF /* LaunchScreen.storyboard */,
 				2686A092247C0E6B00BC15FF /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				2686A091247C0E6B00BC15FF /* LaunchScreen.storyboard in Resources */,
 				2686A08E247C0E6B00BC15FF /* Assets.xcassets in Resources */,
+				2686A099247C53C000BC15FF /* Culminating task gabriela.sketch in Resources */,
 				2686A08C247C0E6600BC15FF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -5,9 +5,15 @@ class ViewController: UIViewController, AVCaptureMetadataOutputObjectsDelegate {
     var captureSession: AVCaptureSession!
     var previewLayer: AVCaptureVideoPreviewLayer!
 
+    @IBOutlet var barcode: UIButton!
+    @IBOutlet var search: UIButton!
+    @IBOutlet var shoppingCart: UIButton!
+    @IBOutlet var myAccount: UIButton!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         view.backgroundColor = UIColor.black
         captureSession = AVCaptureSession()
 
